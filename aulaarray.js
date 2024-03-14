@@ -1,12 +1,6 @@
-let cestaDeFrutas = [];
-let fruta = 'banana';
-let quantidadedeFruta = 110;
+let cestaDeFrutas = ['banana', 'maçã', 'manga', 'uva'];
 
-//typeof
-//console.log(typeof(cestaDeFrutas));
-//console.log(typeof(fruta));
-//console.log(typeof(quantidadedeFruta));
+let listaDeCor = ['azul', 'vermelho', 'amarelo', 'preto'];
 
-
-
-
+console.log(cestaDeFrutas);
+console.log(listaDeCor);
